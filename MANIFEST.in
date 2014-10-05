@@ -1,4 +1,4 @@
 include README.md
 include version.py
 include RELEASE-VERSION
-recursive-include kvlayer *.txt
+recursive-include many_stop_words *.txt
