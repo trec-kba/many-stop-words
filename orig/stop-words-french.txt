@@ -1,0 +1,445 @@
+﻿alors
+au
+aucuns
+aussi
+autre
+avant
+avec
+avoir
+bon
+car
+ce
+cela
+ces
+ceux
+chaque
+ci
+comme
+comment
+dans
+des
+du
+dedans
+dehors
+depuis
+deux
+devrait
+doit
+donc
+dos
+droite
+début
+elle
+elles
+en
+encore
+essai
+est
+et
+eu
+fait
+faites
+fois
+font
+force
+haut
+hors
+ici
+il
+ils
+je
+juste
+la
+le
+les
+leur
+là
+ma
+maintenant
+mais
+mes
+mine
+moins
+mon
+mot
+même
+ni
+nommés
+notre
+nous
+nouveaux
+ou
+où
+par
+parce
+parole
+pas
+personnes
+peut
+peu
+pièce
+plupart
+pour
+pourquoi
+quand
+que
+quel
+quelle
+quelles
+quels
+qui
+sa
+sans
+ses
+seulement
+si
+sien
+son
+sont
+sous
+soyez
+sujet
+sur
+ta
+tandis
+tellement
+tels
+tes
+ton
+tous
+tout
+trop
+très
+tu
+valeur
+voie
+voient
+vont
+votre
+vous
+vu
+ça
+étaient
+état
+étions
+été
+êtreau             |  a + le
+aux            |  a + les
+avec           |  with
+ce             |  this
+ces            |  these
+dans           |  with
+de             |  of
+des            |  de + les
+du             |  de + le
+elle           |  she
+en             |  `of them' etc
+et             |  and
+eux            |  them
+il             |  he
+je             |  I
+la             |  the
+le             |  the
+leur           |  their
+lui            |  him
+ma             |  my (fem)
+mais           |  but
+me             |  me
+même           |  same; as in moi-même (myself) etc
+mes            |  me (pl)
+moi            |  me
+mon            |  my (masc)
+ne             |  not
+nos            |  our (pl)
+notre          |  our
+nous           |  we
+on             |  one
+ou             |  where
+par            |  by
+pas            |  not
+pour           |  for
+qu             |  que before vowel
+que            |  that
+qui            |  who
+sa             |  his, her (fem)
+se             |  oneself
+ses            |  his (pl)
+son            |  his, her (masc)
+sur            |  on
+ta             |  thy (fem)
+te             |  thee
+tes            |  thy (pl)
+toi            |  thee
+ton            |  thy (masc)
+tu             |  thou
+un             |  a
+une            |  a
+vos            |  your (pl)
+votre          |  your
+vous           |  you
+c              |  c'
+d              |  d'
+j              |  j'
+l              |  l'
+à              |  to, at
+m              |  m'
+n              |  n'
+s              |  s'
+t              |  t'
+y              |  there
+être
+été
+étée
+étées
+étés
+étant
+suis
+es
+est
+sommes
+êtes
+sont
+serai
+seras
+sera
+serons
+serez
+seront
+serais
+serait
+serions
+seriez
+seraient
+étais
+était
+étions
+étiez
+étaient
+fus
+fut
+fûmes
+fûtes
+furent
+sois
+soit
+soyons
+soyez
+soient
+fusse
+fusses
+fût
+fussions
+fussiez
+fussent
+avoir
+ayant
+eu
+eue
+eues
+eus
+ai
+as
+avons
+avez
+ont
+aurai
+auras
+aura
+aurons
+aurez
+auront
+aurais
+aurait
+aurions
+auriez
+auraient
+avais
+avait
+avions
+aviez
+avaient
+eut
+eûmes
+eûtes
+eurent
+aie
+aies
+ait
+ayons
+ayez
+aient
+eusse
+eusses
+eût
+eussions
+eussiez
+eussent
+ceci           |  this
+celà           |  that
+cet            |  this
+cette          |  this
+ici            |  here
+ils            |  they
+les            |  the (pl)
+leurs          |  their (pl)
+quel           |  which
+quels          |  which
+quelle         |  which
+quelles        |  which
+sans           |  without
+soi            |  oneself
+au
+aux
+avec
+ce
+ces
+dans
+de
+des
+du
+elle
+en
+et
+eux
+il
+je
+la
+le
+leur
+lui
+ma
+mais
+me
+même
+mes
+moi
+mon
+ne
+nos
+notre
+nous
+on
+ou
+par
+pas
+pour
+qu
+que
+qui
+sa
+se
+ses
+son
+sur
+ta
+te
+tes
+toi
+ton
+tu
+un
+une
+vos
+votre
+vous
+c
+d
+j
+l
+à
+m
+n
+s
+t
+y
+été
+étée
+étées
+étés
+étant
+étante
+étants
+étantes
+suis
+es
+est
+sommes
+êtes
+sont
+serai
+seras
+sera
+serons
+serez
+seront
+serais
+serait
+serions
+seriez
+seraient
+étais
+était
+étions
+étiez
+étaient
+fus
+fut
+fûmes
+fûtes
+furent
+sois
+soit
+soyons
+soyez
+soient
+fusse
+fusses
+fût
+fussions
+fussiez
+fussent
+ayant
+ayante
+ayantes
+ayants
+eu
+eue
+eues
+eus
+ai
+as
+avons
+avez
+ont
+aurai
+auras
+aura
+aurons
+aurez
+auront
+aurais
+aurait
+aurions
+auriez
+auraient
+avais
+avait
+avions
+aviez
+avaient
+eut
+eûmes
+eûtes
+eurent
+aie
+aies
+ait
+ayons
+ayez
+aient
+eusse
+eusses
+eût
+eussions
+eussiez
+eussent
