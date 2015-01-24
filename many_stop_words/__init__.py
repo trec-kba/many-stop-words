@@ -7,10 +7,25 @@
 import os
 
 available_languages = [
+    'ar',
+    'ca',
+    'cs',
+    'de',
+    'el',
     'en',
     'es',
+    'fi',
+    'fr',
+    'hu',
     'it',
+    'nl',
+    'no',
+    'pl',
     'pt',
+    'ru',
+    'sk',
+    'sv',
+    'tr',
     ]
 
 def get_stop_words(*lang_codes):
@@ -32,6 +47,4 @@ def _open_stop_words_file(lang_code):
     this_dir = os.path.dirname(__file__)
     path = os.path.join(this_dir, 'stopwords-{}.txt'.format(lang_code))
     return open(path)
-
-
 
