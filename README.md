@@ -5,7 +5,7 @@ Simple Python package that provides a single function for loading sets
 of stop words for different languages.
 
 Stop words in English, French, German, Finish, Hungarian, Turkish,
-Russian, Czech, Greek, Arabic, Catalan, Polish, Hebrew, Norwegian,
+Russian, Czech, Greek, Arabic, Chinese, Japanese, Korean, Catalan, Polish, Hebrew, Norwegian,
 Swedish, Italian, Portuguese and Spanish, were retrieved from the
 following sources:
 
@@ -13,6 +13,7 @@ following sources:
  * Perseus: http://www.perseus.tufts.edu/hopper/stopwords
  * Ranks.nl: http://www.ranks.nl/resources/stopwords.html
  * Google: http://code.google.com/p/stop-words/
+ * Kevin Bouge: https://sites.google.com/site/kevinbouge/stopwords-lists
  * NLTK
 
 The directory called `orig` contains the original files used to
