@@ -275,7 +275,7 @@ ter
 terei
 teremos
 teria
-teriam﻿acerca
+teriam
 terá
 terão
 teríamos
@@ -306,7 +306,7 @@ tua
 tuas
 tém
 têm
-tínhamos
+qtínhamos
 um
 uma
 umas

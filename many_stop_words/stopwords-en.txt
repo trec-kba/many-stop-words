@@ -893,6 +893,3 @@ yourself
 yourselves
 z
 zero
-﻿a
-﻿able
-﻿I

@@ -127,8 +127,8 @@ estuvieseis
 estuviesen
 estuvieses
 estuvimos
+estuviste
 estuvisteis
-estuviste﻿algún
 estuviéramos
 estuviésemos
 estuvo
@@ -469,4 +469,3 @@ yo
 áestarían
 él
 éramos
-﻿un
