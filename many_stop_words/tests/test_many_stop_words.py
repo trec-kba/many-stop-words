@@ -1,5 +1,11 @@
+'''tests for many_stop_words
+
+.. This software is released under an MIT/X11 open source license.
+   Copyright 2012-2015 Diffeo, Inc.
+'''
 from __future__ import absolute_import, division, print_function
 import pytest
+import timeit
 
 from many_stop_words import get_stop_words, available_languages
 
@@ -33,3 +39,13 @@ def test_get_all_basic():
 
 def test_get_all_equals_getting_all():
     assert get_stop_words() == get_stop_words(*available_languages)
+
+
+def test_load_speed():
+    setup = 'from many_stop_words import get_stop_words'
+    cmd = 'get_stop_words()'
+    number = 100
+    t = timeit.timeit(cmd, setup=setup, number=number)
+    print('%d in %f seconds --> %f per load' % (number, t, t/number))
+    # test_load_speed 100 in 2.074782 seconds --> 0.020748 per load
+
