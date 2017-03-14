@@ -75,7 +75,7 @@ def call_git_describe(abbrev=4):
 
         return version, source_hash
  
-    except Exception, exc:
+    except Exception as exc:
         '''
         sys.stderr.write('line: %r\n' % line)
         sys.stderr.write(traceback.format_exc(exc))
@@ -147,4 +147,4 @@ def get_git_version(abbrev=4):
  
  
 if __name__ == "__main__":
-    print get_git_version()
+    print(get_git_version())
